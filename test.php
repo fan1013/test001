@@ -6,4 +6,4 @@
  * Time: 12:31
  */
 
-echo "hello word2";
+echo "this is php file test";
